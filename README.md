@@ -14,7 +14,7 @@
 
     $git clone https://github.com/AKingevo/BTIC.git
 
-Working
+## Working
 
     $cd BTIC  
     $python3 BTIC.py
